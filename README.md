@@ -3,10 +3,11 @@
 
 - 📫 How to reach me Discord! BrandgrandReal#3131
 
-<!---
-BrandgrandRealMe/BrandgrandRealMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Links
+
+My Discord! 
+> [![**ᛃHʏᴘᴇTᴇᴀᴍᛃ** Discord](https://flat.badgen.net/discord/members/Bm6fMsA)](https://discord.gg/Bm6fMsA)
+
 - [x] < Check this box
 - [ ] Find a way to embed my website under this text
 - [ ] Add delight to the experience when all tasks are complete :tada:
