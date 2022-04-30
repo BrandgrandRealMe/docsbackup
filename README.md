@@ -66,6 +66,9 @@ My Discord!
 
 ## What Is Used in this README
 
-[![lang icons](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Cards](https://github-readme-stats.vercel.app/api/pin/?username=abranhe&repo=programming-languages-logos&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/abranhe/programming-languages-logos)
+[![programming-languages-logos](https://github-readme-stats.vercel.app/api/pin/?username=abranhe&repo=programming-languages-logos&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/abranhe/programming-languages-logos)
+
+[![github-activity-readme](https://github-readme-stats.vercel.app/api/pin/?username=jayrizuri&repo=github-activity-readme&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/jayrizuri/github-activity-readme)
+
