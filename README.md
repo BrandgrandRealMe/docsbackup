@@ -70,5 +70,5 @@ My Discord!
 
 [![programming-languages-logos](https://github-readme-stats.vercel.app/api/pin/?username=abranhe&repo=programming-languages-logos&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/abranhe/programming-languages-logos)
 
-[![github-activity-readme](https://github-readme-stats.vercel.app/api/pin/?username=jayrizuri&repo=github-activity-readme&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/jayrizuri/github-activity-readme)
+[![github-activity-readme](https://github-readme-stats.vercel.app/api/pin/?username=jamesgeorge007&repo=github-activity-readme&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/jamesgeorge007/github-activity-readme)
 
