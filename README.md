@@ -1,6 +1,5 @@
 ## About me
 
-
 > - 👋 Hi, I’m Brandon
 > - 👀 I’m interested in Developing Websites, Discord.js bots, and more!
 
@@ -25,6 +24,8 @@ My Discord!
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandgrandRealMe&theme=github_dark&layout=compact&hide_border=true" alt="top-langs" />
   <br><br>
+ 
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -53,14 +54,10 @@ My Discord!
 <br />  
 <br />  
 <br />  
-<br />  
-<br />  
-<br />    
 
-
-  ## Activity
-  
  <!--START_SECTION:activity-->
+| Activity |
+| --- |
 `[04/30 23:13]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[04/30 23:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[04/30 22:41]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
@@ -145,11 +142,20 @@ My Discord!
 
 
 
-## What Is Used in this README
 
+## What Is Used in this README
+| :information_source: Thanks goes to the people that made these |
+| --- |
+
+
+| readme stats |
+| --- |
 [![github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
+| Programing Lang icons |
+| --- |
 [![programming-languages-logos](https://github-readme-stats.vercel.app/api/pin/?username=abranhe&repo=programming-languages-logos&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/abranhe/programming-languages-logos)
 
+| Readme Activity |
+| --- |
 [![github-activity-readme](https://github-readme-stats.vercel.app/api/pin/?username=BrandgrandRealMe&repo=github-activity-readme&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/BrandgrandRealMe/github-activity-readme)
-
