@@ -1,5 +1,6 @@
 ## About me
 
+
 > - 👋 Hi, I’m Brandon
 > - 👀 I’m interested in Developing Websites, Discord.js bots, and more!
 
@@ -54,7 +55,8 @@ My Discord!
 <br />  
 <br />  
 <br />  
-<br />  
+<br />    
+
 
   ## Activity
   
