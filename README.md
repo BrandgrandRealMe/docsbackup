@@ -59,6 +59,8 @@ My Discord!
   ## Activity
   
  <!--START_SECTION:activity-->
+`[04/30 22:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
+`[04/30 22:39]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Melliowse/github-activity-readme](https://github.com/Melliowse/github-activity-readme) to [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[04/30 22:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[04/30 20:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot)  
 `[04/30 20:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
@@ -67,11 +69,11 @@ My Discord!
 `[04/12 20:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/HypeBot](https://github.com/BrandgrandRealMe/HypeBot)  
 `[04/12 20:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Beta`](https://github.com/BrandgrandRealMe/HypeBotTemplate/tree/Beta) in [BrandgrandRealMe/HypeBotTemplate](https://github.com/BrandgrandRealMe/HypeBotTemplate)  
 `[04/07 21:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
-`[04/07 21:04]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.1`](https://github.com/BrandgrandRealMe/BetterLogsDiscord/releases/tag/1.0.1) in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
-`[04/07 21:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
 
 <details><summary>Show More</summary>
 
+`[04/07 21:04]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.1`](https://github.com/BrandgrandRealMe/BetterLogsDiscord/releases/tag/1.0.1) in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
+`[04/07 21:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
 `[04/07 21:02]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.0`](https://github.com/BrandgrandRealMe/BetterLogsDiscord/releases/tag/1.0.0) in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
 `[04/07 21:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
 `[04/07 20:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/BrandgrandRealMe/BetterLogsDiscord/tree/main) in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
