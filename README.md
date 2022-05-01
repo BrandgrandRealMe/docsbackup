@@ -17,7 +17,7 @@ My Discord!
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
- ## What I program:
+ ## What I work with
 
  <br/>
 <p align="center">
@@ -55,6 +55,8 @@ My Discord!
 <br />  
 <br />  
 
+
+## Activity
  <!--START_SECTION:activity-->
 `[05/01 00:37]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[04/30 23:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
