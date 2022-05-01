@@ -58,6 +58,9 @@ My Discord!
 
 ## Activity
  <!--START_SECTION:activity-->
+`[05/01 00:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
+`[05/01 00:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
+`[05/01 00:43]` <img alt="🏷" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.3.7`](https://github.com/BrandgrandRealMe/github-activity-readme/releases/tag/v0.3.7) in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[05/01 00:37]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[04/30 23:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[04/30 23:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
@@ -65,12 +68,12 @@ My Discord!
 `[04/30 22:39]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Melliowse/github-activity-readme](https://github.com/Melliowse/github-activity-readme) to [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[04/30 22:33]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[04/30 20:53]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HaileyBot/HaileyBot](https://github.com/HaileyBot/HaileyBot)  
-`[04/30 20:39]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
-`[04/27 18:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/HypeBot](https://github.com/BrandgrandRealMe/HypeBot)  
-`[04/14 19:29]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BrandgrandRealMe/HypeBot](https://github.com/BrandgrandRealMe/HypeBot)  
 
 <details><summary>Show More</summary>
 
+`[04/30 20:39]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
+`[04/27 18:24]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/HypeBot](https://github.com/BrandgrandRealMe/HypeBot)  
+`[04/14 19:29]` <img alt="⭐" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BrandgrandRealMe/HypeBot](https://github.com/BrandgrandRealMe/HypeBot)  
 `[04/12 20:36]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/HypeBot](https://github.com/BrandgrandRealMe/HypeBot)  
 `[04/12 20:34]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Beta`](https://github.com/BrandgrandRealMe/HypeBotTemplate/tree/Beta) in [BrandgrandRealMe/HypeBotTemplate](https://github.com/BrandgrandRealMe/HypeBotTemplate)  
 `[04/07 21:07]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BetterLogsDiscord](https://github.com/BrandgrandRealMe/BetterLogsDiscord)  
