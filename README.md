@@ -58,6 +58,8 @@ My Discord!
 
 ## Activity
  <!--START_SECTION:activity-->
+`[05/06 16:33]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/BrandgrandRealMe/revancedsiteprototype/tree/main) in [BrandgrandRealMe/revancedsiteprototype](https://github.com/BrandgrandRealMe/revancedsiteprototype)  
+`[05/06 16:33]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [BrandgrandRealMe/revancedsiteprototype](https://github.com/BrandgrandRealMe/revancedsiteprototype)  
 `[05/02 15:55]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Official_Bot`](https://github.com/hypeteamofficial/HypeBot/tree/Official_Bot) in [hypeteamofficial/HypeBot](https://github.com/hypeteamofficial/HypeBot)  
 `[05/01 02:58]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [hypeteamofficial/HypeBot](https://github.com/hypeteamofficial/HypeBot)  
 `[05/01 02:58]` <img alt="🎉" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//hypeteamofficial/HypeBot/pull/1 'Hype bot current update') in [hypeteamofficial/HypeBot](https://github.com/hypeteamofficial/HypeBot)  
@@ -66,11 +68,11 @@ My Discord!
 `[05/01 00:53]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[05/01 00:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[05/01 00:43]` <img alt="🏷" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.3.7`](https://github.com/BrandgrandRealMe/github-activity-readme/releases/tag/v0.3.7) in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
-`[05/01 00:37]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
-`[04/30 23:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 
 <details><summary>Show More</summary>
 
+`[05/01 00:37]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
+`[04/30 23:27]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[04/30 23:10]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[04/30 22:41]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[04/30 22:39]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Melliowse/github-activity-readme](https://github.com/Melliowse/github-activity-readme) to [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
