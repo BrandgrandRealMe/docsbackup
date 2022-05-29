@@ -1,7 +1,7 @@
 ## About me
 ```js
   class About extends Me {
-    nstructor() {
+    constructor() {
     this.name = "Brandon";
     this.username = "BrandgrandReal";
     this.discord = "BrandgrandReal#3131";
