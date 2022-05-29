@@ -1,7 +1,33 @@
 ## About me
-
-> - 👋 Hi, I’m Brandon
-> - 👀 I’m interested in Developing Websites, Discord.js bots, and more!
+```js
+  class About extends Me {
+    nstructor() {
+    this.name = "Brandon";
+    this.username = "BrandgrandReal";
+    this.discord = "BrandgrandReal#3131";
+    this.gender = "Male";
+  }
+    t whoAmI() {
+    return ["coding enthusiast", "gamer", "high school student"];
+  }
+    t whatIDo() {
+    return ["build websites", "Make discord bots", "have fun"];
+  }
+    t languages() {
+      turn [
+      "JavaScript",
+      "HTML",
+      "CSS",
+    ];
+  }
+    t tech() {
+    return ["Node.js", "npm", "discord.js"];
+  }
+    t interestingFacts() {
+    return ["self taught", "started with html and JS"];
+}
+}
+```
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandgrandRealMe&theme=github_dark&show_icons=true&hide_border=true" alt="Stats" />
 
