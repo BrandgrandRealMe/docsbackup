@@ -173,9 +173,6 @@ My Discord!
 `[04/03 19:16]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [toptal/haste-server](https://github.com/toptal/haste-server) to [BrandgrandRealMe/haste-server](https://github.com/BrandgrandRealMe/haste-server)  
 `[03/28 20:11]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#934`](https://github.com//ytmdesktop/ytmdesktop/issues/934 'Ability to add extensions or addons') in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)  
 `[03/26 14:57]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/HypeBotTemplate](https://github.com/BrandgrandRealMe/HypeBotTemplate)  
-`[03/24 18:35]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [BrandgrandRealMe/HypeBot](https://github.com/BrandgrandRealMe/HypeBot)  
-`[03/24 18:20]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/H-B-](https://github.com/BrandgrandRealMe/H-B-)  
-`[03/24 18:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [BrandgrandRealMe/Hype-Bot-](https://github.com/BrandgrandRealMe/Hype-Bot-)  
 
 </details>
 <!--END_SECTION:activity-->
