@@ -172,7 +172,6 @@ My Discord!
 `[04/03 23:22]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#412`](https://github.com//toptal/haste-server/issues/412 'Add Font Awesome icons instead of the image thing. ') in [toptal/haste-server](https://github.com/toptal/haste-server)  
 `[04/03 19:16]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [toptal/haste-server](https://github.com/toptal/haste-server) to [BrandgrandRealMe/haste-server](https://github.com/BrandgrandRealMe/haste-server)  
 `[03/28 20:11]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#934`](https://github.com//ytmdesktop/ytmdesktop/issues/934 'Ability to add extensions or addons') in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)  
-`[03/26 14:57]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/HypeBotTemplate](https://github.com/BrandgrandRealMe/HypeBotTemplate)  
 
 </details>
 <!--END_SECTION:activity-->
