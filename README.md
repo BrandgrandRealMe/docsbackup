@@ -84,19 +84,24 @@ My Discord!
 
 ## Activity
  <!--START_SECTION:activity-->
+`[07/01 19:12]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [BrandgrandRealMe/vintageWTTheme](https://github.com/BrandgrandRealMe/vintageWTTheme)  
+`[07/01 18:57]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/BrandgrandRealMe/vintageWTTheme/tree/main) in [BrandgrandRealMe/vintageWTTheme](https://github.com/BrandgrandRealMe/vintageWTTheme)  
+`[07/01 18:57]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [BrandgrandRealMe/vintageWTTheme](https://github.com/BrandgrandRealMe/vintageWTTheme)  
+`[07/01 18:55]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/BrandgrandRealMe/WindowsTerminalThemes/tree/main) in [BrandgrandRealMe/WindowsTerminalThemes](https://github.com/BrandgrandRealMe/WindowsTerminalThemes)  
+`[07/01 18:55]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [BrandgrandRealMe/WindowsTerminalThemes](https://github.com/BrandgrandRealMe/WindowsTerminalThemes)  
 `[06/12 22:06]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [BrandgrandRealMe/URC](https://github.com/BrandgrandRealMe/URC)  
 `[06/12 21:42]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/BrandgrandRealMe/URC/tree/gh-pages) in [BrandgrandRealMe/URC](https://github.com/BrandgrandRealMe/URC)  
 `[06/12 21:41]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/URC](https://github.com/BrandgrandRealMe/URC)  
 `[06/12 21:40]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[06/12 21:36]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/BrandgrandRealMe/URC/tree/main) in [BrandgrandRealMe/URC](https://github.com/BrandgrandRealMe/URC)  
+
+<details><summary>Show More</summary>
+
 `[06/12 21:36]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [BrandgrandRealMe/URC](https://github.com/BrandgrandRealMe/URC)  
 `[05/29 13:38]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/website](https://github.com/BrandgrandRealMe/website)  
 `[05/29 01:56]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/BrandgrandRealMe](https://github.com/BrandgrandRealMe/BrandgrandRealMe)  
 `[05/14 14:28]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [hypeteamofficial/HypeBot](https://github.com/hypeteamofficial/HypeBot)  
 `[05/08 12:49]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
-
-<details><summary>Show More</summary>
-
 `[05/08 12:46]` <img alt="🏷" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.3.8`](https://github.com/BrandgrandRealMe/github-activity-readme/releases/tag/v0.3.8) in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[05/08 12:44]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/github-activity-readme](https://github.com/BrandgrandRealMe/github-activity-readme)  
 `[05/06 22:17]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [BrandgrandRealMe/revancedsiteprototype](https://github.com/BrandgrandRealMe/revancedsiteprototype)  
