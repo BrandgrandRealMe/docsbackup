@@ -174,8 +174,6 @@ My Discord!
 `[04/07 15:32]` <img alt="📝" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [BrandgrandRealMe/BetterLogs](https://github.com/BrandgrandRealMe/BetterLogs)  
 `[04/07 15:08]` <img alt="➕" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [BrandgrandRealMe/BetterLogs](https://github.com/BrandgrandRealMe/BetterLogs)  
 `[04/07 15:08]` <img alt="📂" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/BrandgrandRealMe/BetterLogs/tree/main) in [BrandgrandRealMe/BetterLogs](https://github.com/BrandgrandRealMe/BetterLogs)  
-`[04/03 23:22]` <img alt="❗️" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#412`](https://github.com//toptal/haste-server/issues/412 'Add Font Awesome icons instead of the image thing. ') in [toptal/haste-server](https://github.com/toptal/haste-server)  
-`[04/03 19:16]` <img alt="🍴" src="https://github.com/BrandgrandRealMe/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [toptal/haste-server](https://github.com/toptal/haste-server) to [BrandgrandRealMe/haste-server](https://github.com/BrandgrandRealMe/haste-server)  
 
 </details>
 <!--END_SECTION:activity-->
