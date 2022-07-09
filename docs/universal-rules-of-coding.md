@@ -8,6 +8,4 @@
 
 
 #### More info 
-You can suggest some here: https://github.com/BrandgrandRealMe/URC/milestones
-
-The Official list is here: https://github.com/BrandgrandRealMe/URC/
+You can suggest some here: WIP
