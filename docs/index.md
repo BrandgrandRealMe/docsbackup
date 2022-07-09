@@ -33,7 +33,7 @@
 
 
 !!! links "Links"
-    My Discord! 
+    Join My Discord! 
     > [![**ᛃHʏᴘᴇTᴇᴀᴍᛃ** Discord](https://flat.badgen.net/discord/members/Bm6fMsA)](https://discord.gg/Bm6fMsA)
 
 !!! abstract "To-Do"
