@@ -5,6 +5,8 @@
 
 
 !!! links "Incognito"  
+    <path class="cls-2" d="M210.41,66.38A115.27,115.27,0,0,1,70.52,248.19,134,134,0,1,0,210.41,66.38Z" transform="translate(-17.32 -17.32)"></path>
+
     https://caracal-js.github.io/Incognito/
 
     https://theoxymoron.xyz
