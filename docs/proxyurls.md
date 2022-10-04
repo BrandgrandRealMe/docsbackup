@@ -1,7 +1,15 @@
 # Links To Proxies
 
 
-
+<style>
+    
+.nav-logo {
+    margin-left: 0;
+    width: 35px;
+    height: 35px;
+}
+    
+    </style>
 
 
 !!! links "Incognito"  
