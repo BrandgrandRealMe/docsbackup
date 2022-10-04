@@ -1,8 +1,4 @@
-!!! links "Incognito"
-https://theoxymoron.xyz
-https://mealvariation.org
-https://calculustips.xyz
-https://incog.dev/#
+!!! links "Incognito"  https://theoxymoron.xyz https://mealvariation.org https://calculustips.xyz https://incog.dev/#
 
  > Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session.
 Features:
