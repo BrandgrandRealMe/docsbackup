@@ -73,8 +73,10 @@ theme:
       name: DARK
 
 extra_css:
-  - styles/admonitions.css
-
+  - styles/admonitions/pincog.css
+  - styles/admonitions/links.css
+  - styles/admonitions/code.css
+  
 # Setup
 site_name: Docs
 
