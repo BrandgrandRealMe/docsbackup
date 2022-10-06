@@ -1,0 +1,17 @@
+:root {
+    --md-admonition-icon--pincog: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 365.37 365.37"><path class="cls-2" d="M210.41,66.38A115.27,115.27,0,0,1,70.52,248.19,134,134,0,1,0,210.41,66.38Z" transform="translate(-17.32 -17.32)" /></svg>')
+}
+.md-typeset .admonition.pincog,
+.md-typeset details.pincog {
+  border-color: rgb(43, 155, 70);
+}
+.md-typeset .pincog > .admonition-title,
+.md-typeset .pincog > summary {
+  background-color: rgba(43, 155, 70, 0.1);
+}
+.md-typeset .pincog > .admonition-title::before,
+.md-typeset .pincog > summary::before {
+  background-color: rgb(43, 155, 70);
+  -webkit-mask-image: var(--md-admonition-icon--pincog);
+          mask-image: var(--md-admonition-icon--pincog);
+}
