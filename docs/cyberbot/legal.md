@@ -46,6 +46,5 @@ Currently, no information is stored directly to the bot. We do use other service
 ### Questions and Concerns.
 If you are concerned about ANYTHING, please join our [Support Server][support].
 
-!!! info "IMPORTANT" We reserve the right to update these terms at our own discretion, giving you a 1-Week (7 days) period to opt out of these terms if you're not agreeing with the new changes. 
+!!! info "IMPORTANT" We reserve the right to update these terms at our own discretion, giving you a 1-Week (7 days) period to opt out of these terms if you're not agreeing with the new changes.  
 You may opt out by Removing the bot from any Server you have the rights for.
-!!! 
