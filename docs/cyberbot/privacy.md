@@ -13,4 +13,4 @@ By having CYBRΞRBot in your server, you agree to the following privacy policy.
 Currently, no information is stored.
 
 ### Questions and Concerns.
-If you are concerned about ANYTHING, please join our (discord).
+If you are concerned about ANYTHING, please join our [discord].
