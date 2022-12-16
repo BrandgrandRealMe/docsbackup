@@ -1,6 +1,6 @@
 theme:
   name: null
-  custom_dir: material
+  custom_dir: mkdocs-material
 
   # 404 page
   static_templates:
