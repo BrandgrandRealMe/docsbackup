@@ -13,6 +13,6 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install --upgrade mkdocs-material
+      - run: pip install --upgrade material
       - run: mkdocs gh-deploy --force
-      - run: pip show mkdocs-material
+      - run: pip show material
