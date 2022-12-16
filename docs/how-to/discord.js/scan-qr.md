@@ -3,8 +3,8 @@ title: Scan QR Command
 description: How to create a QR scan command with Discord.js
 ---
 [Discord.js]: https://discord.js.org/#/
-[`discord.js`]:  https://www.npmjs.com/package/discord.js
-[`qrcode-reader`]: https://www.npmjs.com/package/qrcode-reader
+[discord.js]:  https://www.npmjs.com/package/discord.js
+[qrcode-reader]: https://www.npmjs.com/package/qrcode-reader
 
 # Scan QR Command
 ### How to create a QR scan command with [Discord.js]
@@ -12,11 +12,11 @@ description: How to create a QR scan command with Discord.js
 
 To create a QR code scanner that uses an image file with [Discord.js], you will need to follow these steps:
 
-1.  Install the required dependencies: You will need to install the [`discord.js`] library and the [`qrcode-reader`] library. You can do this by running the following command: 
+1.  Install the required dependencies: You will need to install the [discord.js] library and the [qrcode-reader] library. You can do this by running the following command: 
     ```shell
     npm install discord.js qrcode-reader
     ```
-2.  Import the libraries in your code: In your JavaScript file, you will need to import the [`discord.js`] and [`qrcode-reader`] libraries using the following lines of code:
+2.  Import the libraries in your code: In your JavaScript file, you will need to import the `discord.js` and `qrcode-reader` libraries using the following lines of code:
     ```js
     const Discord = require('discord.js');
     const QrCodeReader = require('qrcode-reader');
