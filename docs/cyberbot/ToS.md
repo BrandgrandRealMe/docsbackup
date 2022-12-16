@@ -1,6 +1,6 @@
 ---
 title: ToS
-description: The Terms of Service and Privacy Policy of the Discord Bot.
+description: The Terms of Service of the Discord Bot.
 ---
 
 [Terms of Service]: https://discord.com/terms
