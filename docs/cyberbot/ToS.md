@@ -1,5 +1,5 @@
 ---
-title: Bot ToS and Privacy Policy
+title: ToS
 description: The Terms of Service and Privacy Policy of the Discord Bot.
 ---
 
@@ -10,7 +10,7 @@ description: The Terms of Service and Privacy Policy of the Discord Bot.
 [support]: https://discord.gg/Bm6fMsA
 [language]: https://discord.com/developers/docs/dispatch/field-values#predefined-field-values-accepted-locales
 [policy]: https://docs.brandgrand.tech/cyberbot/privacy/
-# Bot
+# CYBRΞRBot
 
 ## Terms of Service
 
